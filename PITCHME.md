@@ -198,6 +198,8 @@ see : [美作勝山藩](https://ja.wikipedia.org/wiki/%E7%BE%8E%E4%BD%9C%E5%8B%9
 
 Not 幸せ　 Yes 歓喜
 
+@quote[BPでも歓喜をたくさん得られるようにもがきます]
+
 ---
 
 # THANK YOU
